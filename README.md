@@ -18,6 +18,6 @@ menu에서 버튼을 클릭했을 때 게임이 실행이 안되고 다음과 �
 #print(os.getcwd())를 통해서 현재 path를 알아보고, 
 #subprocess.call('python', './pang.py') 에서 현재 path에서부터 .py을 실행할 수 있게 두번째 부분을 수정한다.
 ```
-
+참고: https://www.youtube.com/watch?v=Dkx8Pl6QKW0 - 나도코딩 게임 만들기
 
 
